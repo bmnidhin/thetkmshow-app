@@ -1,7 +1,7 @@
 # thetkmshow
 
 A new Flutter project.
-[app](https://github.com/bmnidhin/thetkmshow-app/blob/master/assets/tts.png)
+![app](https://github.com/bmnidhin/thetkmshow-app/blob/master/assets/tts.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
