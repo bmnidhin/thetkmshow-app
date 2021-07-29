@@ -1,15 +1,18 @@
 # thetkmshow
 
-A new Flutter project.
 ![app](https://github.com/bmnidhin/thetkmshow-app/blob/master/assets/tts.png)
+
+Home of TKM's very own podcast. Here we bring you everything from alumni interviews, interactive sessions and a platform for voices of TKM to reign free.
+
+App features you MUST install for:
+- Live Radio from The TKM Show in your pocket. ✌️
+- Listen again your favorite episodes on the go.
+- Stay informed with timely notifications.
+- Be active in our community.
+- More features coming soon 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project is a Flutter application.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
